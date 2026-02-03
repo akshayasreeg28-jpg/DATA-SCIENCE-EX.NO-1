@@ -22,7 +22,7 @@ STEP 6: Use zscore of to remove outliers
 # Coding and Output
 <img width="708" height="562" alt="image" src="https://github.com/user-attachments/assets/be2e8635-ff64-4f85-b687-48c2e2441b7e" />
 
-            <<include your coding and its corressponding output screen shots here>>
+            
             
 # Result
 Thus to read and clean the data using data cleaning process is implemented
